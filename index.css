@@ -10,6 +10,9 @@ body{
 .first-section{
    
     display: flex;
+    margin: 0 ;
+    /* border: 1px solid gray; */
+    margin: 0 auto;
 
 }
 .left-side{
@@ -19,4 +22,16 @@ body{
 
 main img{
     width: 400px;
+}
+.details-button{
+    padding: 15px 50px;
+    border: none;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,green,red,green);
+}
+
+.details-button:hover{
+    background: blue;
+    color: white;
+    cursor: pointer;
 }
