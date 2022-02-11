@@ -10,7 +10,7 @@ body{
 .first-section{
    
     display: flex;
-    margin: 0 ;
+  
     /* border: 1px solid gray; */
     margin: 0 auto;
 
@@ -50,4 +50,7 @@ main img{
 }
 .div-img img{
     width: 100%;
+}
+footer{
+    text-align: center;
 }
