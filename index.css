@@ -6,3 +6,17 @@ body{
     color: green;
     text-align: center;
 }
+
+.first-section{
+   
+    display: flex;
+
+}
+.left-side{
+    width: 100%;
+
+}
+
+main img{
+    width: 400px;
+}
