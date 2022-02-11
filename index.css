@@ -19,6 +19,9 @@ body{
     width: 100%;
 
 }
+.second-section h1{
+    text-align: center;
+}
 
 main img{
     width: 400px;
@@ -34,4 +37,16 @@ main img{
     background: blue;
     color: white;
     cursor: pointer;
+}
+.all-divisions{
+    display: flex;
+}
+.dhaka{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 5px;
+}
+.div-img img{
+    width: 100%;
 }
